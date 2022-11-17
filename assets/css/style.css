@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*Changed div to nav*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -106,7 +106,7 @@ p {
     max-width: 150px;
 }
 /*Combined main element classes*/
-.search-engine-optimization {
+.horiseon {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,11 +115,11 @@ p {
     color: #ffffff;
 }
 /*Combined main images classes*/
-.search-engine-optimization img {
+.horiseon img {
     max-height: 200px;
 }
 /*Combined main element header classes*/
-.search-engine-optimization h2 {
+.horiseon h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
