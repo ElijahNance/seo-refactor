@@ -106,7 +106,7 @@ p {
     max-width: 150px;
 }
 /*Combined main element classes*/
-.horiseon {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -115,11 +115,11 @@ p {
     color: #ffffff;
 }
 /*Combined main images classes*/
-.horiseon img {
+.search-engine-optimization img {
     max-height: 200px;
 }
 /*Combined main element header classes*/
-.horiseon h2 {
+.search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
