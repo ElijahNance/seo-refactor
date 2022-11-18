@@ -89,7 +89,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Created benefit class to reduce repeated css*/
+/* Created benefit class to reduce repeated class declaratrions*/
 .benefit {
     margin-bottom: 32px;
     color: #ffffff;
@@ -106,7 +106,7 @@ p {
     max-width: 150px;
 }
 /* ------------------------------------------ */
-/*Created search-engine-optimization class to reducee repeated css*/
+/*Created search-engine-optimization class to reducee repeated class declarations*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;

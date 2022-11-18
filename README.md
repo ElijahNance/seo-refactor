@@ -1,14 +1,13 @@
 # seo-refactor
 
-[Link to my project](link)
+[Link to project: https://elijahnance.github.io/seo-refactor/](https://elijahnance.github.io/seo-refactor/)
 
 ## Table of Contents
 - [Description](#description)
--
--
+- [Visuals](#visuals)
 
 ## Description
-A description of the project
+This project is an improvement on a previous websites accessibility features/search engine optimization. I used HTML to replace generic div tags, create new meta tags for better SEO, and added alt attributes to all images. I created new classes in the CSS file to decrease repition in the code.
 
 ## Visuals
-![project image](assets/images/brand-awareness.png)
+![screenshot](assets/images/seo-screenshot.png)
